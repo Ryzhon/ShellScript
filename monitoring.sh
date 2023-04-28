@@ -9,7 +9,7 @@ MEM_THRESHOLD=250000
 # ディスク使用量の閾値 (単位: バイト)
 DISK_THRESHOLD=250000000
 
-APITOKEN="Vj3O6jqyTpY1GQRvnYSdVzyAtspqDmcQvXHfcEkxVnM"
+APITOKEN=""
 
 while true; do
 	# CPU使用率の取得
